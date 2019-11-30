@@ -1,0 +1,7 @@
+{
+    "name": "arm-band/karura-en",
+    "description": "Github Actionsの`repository_dispatch`イベントをトリガーするWordPressプラグイン",
+    "require": {
+        "guzzlehttp/guzzle": "^6.4"
+    }
+}
