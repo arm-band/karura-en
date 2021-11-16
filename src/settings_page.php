@@ -26,7 +26,6 @@ function karuraen_settings_page() {
             </table>
 <?php submit_button( '設定を保存', 'primary large', 'submit', true, array( 'tabindex' => '1' ) ); ?>
         </form>
-        <div id="karuraen_pluginurl" data-pluginurl="<?= esc_attr( plugins_url() ); ?>"></div>
     </div>
 
 <?php } ?>

@@ -3,7 +3,7 @@
   Plugin Name: Karura-en
   Plugin URI:
   Description: Github Actionsの`repository_dispatch`イベントをトリガーするWordPressプラグイン
-  Version: 0.0.1
+  Version: 0.0.2
   Author: アルム＝バンド
   Author URI:
   License: MIT
